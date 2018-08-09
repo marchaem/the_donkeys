@@ -2,7 +2,6 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Who from '@/components/Who-we-are'
 import Constitution from '@/components/Constitution/Constitution'
-import Members from '@/components/Members/Members'
 import BuyCepajou from '@/components/BuyCepajou/BuyCepajou'
 import Donkey from '@/components/Donkey/Donkey'
 import Become from '@/components/Become/Become'
@@ -25,10 +24,6 @@ export default new Router({
       component: Constitution
     },
     {
-      path: '/members',
-      name: 'members',
-      component: Members
-    },{
       path: '/buycepajou',
       name: 'buycepajou',
       component: BuyCepajou

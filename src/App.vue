@@ -43,7 +43,7 @@ export default {
     // set the provider you want from Web3.providers
     console.log("là");
     //web3 = new Web3(new Web3.providers.HttpProvider('https://ropsten.infura.io/6b243c811893488ab3d1cf177ff93662'));
-    web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:8545"));   
+    web3 = new Web3(new Web3.providers.HttpProvider("http://localhost:5000"));   
     if(!web3.isConnected())
         console.log("not connected");
     else
