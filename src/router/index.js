@@ -6,6 +6,8 @@ import BuyCepajou from '@/components/BuyCepajou/BuyCepajou'
 import Donkey from '@/components/Donkey/Donkey'
 import Become from '@/components/Become/Become'
 import Donkey_court from '@/components/Donkey_court/Donkey_court'
+import Enlightenment from '@/components/Enlightenment/Enlightenment'
+
 
 Vue.use(Router)
 
@@ -39,6 +41,10 @@ export default new Router({
       path: '/donkey_court',
       name: 'donkey_court',
       component: Donkey_court
+    },{
+      path: '/enlightenment',
+      name: 'enlightenment',
+      component: Enlightenment
     }
     
   ],
