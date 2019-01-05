@@ -18,16 +18,10 @@
 	      	<router-link :to="{name: 'constitution'}" class="nav-link"><span>Constitution</span></router-link>
 	      </li>
 				<li class="nav-item">
-	      	<router-link :to="{name: 'enlightenment'}" class="nav-link"><span>day of enlightenment</span></router-link>
-	      </li>
-				<li class="nav-item">
 	      	<router-link :to="{name: 'become_a_donkey'}" class="nav-link"><span>Become a donkey</span></router-link>
 	      </li>
 				<li class="nav-item">
-	      	<router-link :to="{name: 'donkey_court'}" class="nav-link"><span>Donkey court</span></router-link>
-	      </li>
-				<li class="nav-item">
-	      	<router-link :to="{name: 'buycepajou'}" class="nav-link"><span>Buy Cepajou</span></router-link>
+	      	<router-link :to="{name: 'donkey_court'}" class="nav-link"><span>The History of donkeys</span></router-link>
 	      </li>
 	    </ul>
 	  </div>
