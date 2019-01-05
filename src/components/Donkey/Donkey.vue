@@ -1,6 +1,6 @@
 <template>
 	<div>
-		<img src="/../static/funny_donkey.jpg" >		
+		<img src="/../static/funny_donkey.jpg" style="max-width: 100%; height: auto;" alt="Description">		
 	</div>
 </template>
 
