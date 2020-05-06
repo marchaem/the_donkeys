@@ -1,6 +1,6 @@
 <template>
 	<div class="sarkozy">   
-        <h1>It all started with a revelation, the light from the donkey god</h1>
+        <h1>It all started with a revelation from the sky, the light from the donkey god</h1>
         <img src="/../static/Sarkozy_light.jpg" style="max-width: 100%; height: auto;" alt="Description">
         <h1>And then came the enlightenment from our leader Sarkozy to corrupt the world</h1>
         <img src="/../static/enlightenment.jpg" style="max-width: 100%; height: auto;" alt="Description">

@@ -6,4 +6,6 @@ app = express();
 app.use(serveStatic(__dirname + "/dist"));
 var port = process.env.PORT || 5000;
 app.listen(port);
-console.log('server started '+ port);
+app.post()
+console.log('server started  '+ port);
+//download joi for input validation

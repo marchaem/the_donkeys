@@ -1,14 +1,4 @@
-<template>
-  <div>
-    <Navbar :islogged="logged" />
-    <div id="app" class="container test rounded pb-3">
-      <div>
-         <router-view :myContract="cryptoBarrelsContract" :address="userAddress" :balance="balance" :web3="web3"/>
-      </div>
-      
-    </div>
-  </div>
-</template>
+
 
 <script language="javascript" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script>
