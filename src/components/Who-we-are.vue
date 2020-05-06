@@ -8,7 +8,7 @@
 <script>
 	export default {
 
-		name: 'donkey_court',        
+		name: 'who we are',        
     }
 </script>
 
