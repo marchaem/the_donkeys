@@ -15,7 +15,13 @@
 		</div>
 			<div>
 		<img src="/../static/Valence7.jpg" style="max-width: 100%; height: auto;" alt="Description">				
-		</div>	
+		</div>
+		<div>
+		<img src="/../static/Valence8.jpg" style="max-width: 100%; height: auto;" alt="Description">				
+		</div>
+		<div>
+		<img src="/../static/Valence9.jpg" style="max-width: 100%; height: auto;" alt="Description">				
+		</div>
 		</div>	
 		</div>	
 		</div>		
